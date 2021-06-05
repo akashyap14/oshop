@@ -1,0 +1,10 @@
+.sticky-top {
+    position: sticky;
+    top: 90px;
+    z-index: 1020;
+}
+
+.list-group-item{
+    word-wrap: break-word;
+}
+
